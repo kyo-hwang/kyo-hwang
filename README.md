@@ -1,4 +1,3 @@
-###  플레가고 싶다...
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shane5969)](https://solved.ac/shane5969/)
 <!--
 **kyo-hwang/kyo-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
